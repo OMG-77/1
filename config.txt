@@ -1,5 +1,5 @@
 owner=340233386545250304
-prefix=!
+prefix=1
 game=Break | 1play
 stayinchannel=true
 songinstatus=false
